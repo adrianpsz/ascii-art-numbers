@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 function includeAll($directory)
 {
     if (is_dir($directory)) {

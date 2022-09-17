@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace digits\digits_3x3;
 
 class Digits_3x3

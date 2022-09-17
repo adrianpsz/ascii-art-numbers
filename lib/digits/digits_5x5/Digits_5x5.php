@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace digits\digits_5x5;
 
 class Digits_5x5
